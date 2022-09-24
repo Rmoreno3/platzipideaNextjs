@@ -1150,51 +1150,10 @@
   "resolved" "https://registry.npmjs.org/@tootallnate/once/-/once-1.1.2.tgz"
   "version" "1.1.2"
 
-"@types/body-parser@*":
-  "integrity" "sha512-ALYone6pm6QmwZoAgeyNksccT9Q4AWZQ6PvfwR37GT6r6FWUPguq6sUmNGSMV2Wr761oQoBxwGGa6DR5o1DC9g=="
-  "resolved" "https://registry.npmjs.org/@types/body-parser/-/body-parser-1.19.2.tgz"
-  "version" "1.19.2"
-  dependencies:
-    "@types/connect" "*"
-    "@types/node" "*"
-
-"@types/connect@*":
-  "integrity" "sha512-cdeYyv4KWoEgpBISTxWvqYsVy444DOqehiF3fM3ne10AmJ62RSyNkUnxMJXHQWRQQX2eR94m5y1IZyDwBjV9FQ=="
-  "resolved" "https://registry.npmjs.org/@types/connect/-/connect-3.4.35.tgz"
-  "version" "3.4.35"
-  dependencies:
-    "@types/node" "*"
-
-"@types/cookie-parser@^1.4.3":
-  "integrity" "sha512-CqSKwFwefj4PzZ5n/iwad/bow2hTCh0FlNAeWLtQM3JA/NX/iYagIpWG2cf1bQKQ2c9gU2log5VUCrn7LDOs0w=="
-  "resolved" "https://registry.npmjs.org/@types/cookie-parser/-/cookie-parser-1.4.3.tgz"
-  "version" "1.4.3"
-  dependencies:
-    "@types/express" "*"
-
 "@types/cookie@^0.5.1":
   "integrity" "sha512-COUnqfB2+ckwXXSFInsFdOAWQzCCx+a5hq2ruyj+Vjund94RJQd4LG2u9hnvJrTgunKAaax7ancBYlDrNYxA0g=="
   "resolved" "https://registry.npmjs.org/@types/cookie/-/cookie-0.5.1.tgz"
   "version" "0.5.1"
-
-"@types/express-serve-static-core@^4.17.18":
-  "integrity" "sha512-DxMhY+NAsTwMMFHBTtJFNp5qiHKJ7TeqOo23zVEM9alT1Ml27Q3xcTH0xwxn7Q0BbMcVEJOs/7aQtUWupUQN3Q=="
-  "resolved" "https://registry.npmjs.org/@types/express-serve-static-core/-/express-serve-static-core-4.17.31.tgz"
-  "version" "4.17.31"
-  dependencies:
-    "@types/node" "*"
-    "@types/qs" "*"
-    "@types/range-parser" "*"
-
-"@types/express@*":
-  "integrity" "sha512-TEbt+vaPFQ+xpxFLFssxUDXj5cWCxZJjIcB7Yg0k0GMHGtgtQgpvx/MUQUeAkNbA9AAGrwkAsoeItdTgS7FMyg=="
-  "resolved" "https://registry.npmjs.org/@types/express/-/express-4.17.14.tgz"
-  "version" "4.17.14"
-  dependencies:
-    "@types/body-parser" "*"
-    "@types/express-serve-static-core" "^4.17.18"
-    "@types/qs" "*"
-    "@types/serve-static" "*"
 
 "@types/http-proxy-agent@^2.0.2":
   "integrity" "sha512-2S6IuBRhqUnH1/AUx9k8KWtY3Esg4eqri946MnxTG5HwehF1S5mqLln8fcyMiuQkY72p2gH3W+rIPqp5li0LyQ=="
@@ -1225,11 +1184,6 @@
   "resolved" "https://registry.npmjs.org/@types/lodash/-/lodash-4.14.170.tgz"
   "version" "4.14.170"
 
-"@types/mime@*":
-  "integrity" "sha512-Y4XFY5VJAuw0FgAqPNd6NNoV44jbq9Bz2L7Rh/J6jLTiHBSBJa9fxqQIvkIld4GsoDOcCbvzOUAbLPsSKKg+uA=="
-  "resolved" "https://registry.npmjs.org/@types/mime/-/mime-3.0.1.tgz"
-  "version" "3.0.1"
-
 "@types/node@*":
   "integrity" "sha512-XYmBiy+ohOR4Lh5jE379fV2IU+6Jn4g5qASinhitfyO71b/sCo6MKsMLF5tc7Zf2CE8hViVQyYSobJNke8OvUw=="
   "resolved" "https://registry.npmjs.org/@types/node/-/node-14.14.37.tgz"
@@ -1244,16 +1198,6 @@
   "integrity" "sha512-KfRL3PuHmqQLOG+2tGpRO26Ctg+Cq1E01D2DMriKEATHgWLfeNDmq9e29Q9WIky0dQ3NPkd1mzYH8Lm936Z9qw=="
   "resolved" "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.3.tgz"
   "version" "15.7.3"
-
-"@types/qs@*":
-  "integrity" "sha512-FGa1F62FT09qcrueBA6qYTrJPVDzah9a+493+o2PCXsesWHIn27G98TsSMs3WPNbZIEj4+VJf6saSFpvD+3Zsw=="
-  "resolved" "https://registry.npmjs.org/@types/qs/-/qs-6.9.7.tgz"
-  "version" "6.9.7"
-
-"@types/range-parser@*":
-  "integrity" "sha512-EEhsLsD6UsDM1yFhAvy0Cjr6VwmpMWqFBCb9w07wVugF7w9nfajxLuVmngTIpgS6svCnm6Vaw+MZhoDCKnOfsw=="
-  "resolved" "https://registry.npmjs.org/@types/range-parser/-/range-parser-1.2.4.tgz"
-  "version" "1.2.4"
 
 "@types/react-transition-group@^4.2.0":
   "integrity" "sha512-vIo69qKKcYoJ8wKCJjwSgCTM+z3chw3g18dkrDfVX665tMH7tmbDxEAnPdey4gTlwZz5QuHGzd+hul0OVZDqqQ=="
@@ -1275,14 +1219,6 @@
   "integrity" "sha512-EaCxbanVeyxDRTQBkdLb3Bvl/HK7PBK6UJjsSixB0iHKoWxE5uu2Q/DgtpOhPIojN0Zl1whvOd7PoHs2P0s5eA=="
   "resolved" "https://registry.npmjs.org/@types/scheduler/-/scheduler-0.16.1.tgz"
   "version" "0.16.1"
-
-"@types/serve-static@*":
-  "integrity" "sha512-z5xyF6uh8CbjAu9760KDKsH2FcDxZ2tFCsA4HIMWE6IkiYMXfVoa+4f9KX+FN0ZLsaMw1WNG2ETLA6N+/YA+cg=="
-  "resolved" "https://registry.npmjs.org/@types/serve-static/-/serve-static-1.15.0.tgz"
-  "version" "1.15.0"
-  dependencies:
-    "@types/mime" "*"
-    "@types/node" "*"
 
 "@types/websocket@1.0.2":
   "integrity" "sha512-B5m9aq7cbbD/5/jThEr33nUY8WEfVi6A2YKCTOvw5Ldy7mtsOkqRvGjnzy6g7iMMDsgu7xREuCzqATLDLQVKcQ=="
@@ -2125,6 +2061,11 @@
   "version" "1.7.0"
   dependencies:
     "safe-buffer" "~5.1.1"
+
+"cookie@^0.5.0":
+  "integrity" "sha512-YZ3GUyn/o8gfKJlnlX7g7xq4gyO6OSuhGPKaaGssGB2qgDUS0gPgtTvoyZLTt9Ab6dC4hfc9dV5arkvc/OCmrw=="
+  "resolved" "https://registry.npmjs.org/cookie/-/cookie-0.5.0.tgz"
+  "version" "0.5.0"
 
 "core-util-is@~1.0.0":
   "integrity" "sha1-tf1UIgqivFq1eqtxQMlAdUUDwac= sha512-3lqz5YjWTYnW6dlDa5TLaTCcShfar1e40rmcJVwCBJC6mWlFuj0eCHIElmG1g5kyuJ/GD+8Wn4FFCcz4gJPfaQ=="
